@@ -8,6 +8,7 @@ public class deneme {
 		System.out.println("Ikinci satir kodum");
 		System.out.println("remote degisiklik");
 		System.out.println("Mustafa");
+		System.out.println("Cakisma - Mustafa");
 		
 
 	}
