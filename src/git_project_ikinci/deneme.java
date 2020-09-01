@@ -6,6 +6,8 @@ public class deneme {
 		
 		System.out.println("Ikinci git projem 1");
 		System.out.println("Ikinci satir kodum");
+		System.out.println("remote degisiklik");
+		
 
 	}
 
