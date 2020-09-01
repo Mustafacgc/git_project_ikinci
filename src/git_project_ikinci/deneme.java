@@ -9,8 +9,7 @@ public class deneme {
 		System.out.println("remote degisiklik");
 		System.out.println("Mustafa");
 		System.out.println("Cakisma - Mustafa");
-		
-
+	
 	}
 
 }
